@@ -6,7 +6,7 @@ Replace [address] with the wallet address.
 
 | Cryptocurrency        | Addresss           |
 | -------------         |:-------------:|
-| Bitocoin          | ttps://insight.bitpay.com/api/addr/[address]/?noTxList=1 |
+| Bitocoin          | https://insight.bitpay.com/api/addr/[address]/?noTxList=1 |
 | Bitcoin Cash      | https://bch-chain.api.btc.com/v3/address/[address]      |  
 | Bitcoin Gold      | https://btgexplorer.com/api/addr/[address]/?noTxList=1      |  
 | Ethereum          | https://api.etherscan.io/api?module=account&action=balance&address=[address]      |  
